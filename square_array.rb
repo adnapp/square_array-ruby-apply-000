@@ -4,3 +4,4 @@ output = []
 array.each do |input|
  output << input**2
 end
+end
